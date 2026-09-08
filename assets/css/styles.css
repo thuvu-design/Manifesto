@@ -14,8 +14,14 @@ margin-bottom: 52px;
 }
 
 p{
-font-family:"Schoolbell", cursive;
+font-family:"Short Stack", cursive;
 font-size: 1.85em;
 max-width: 777px;
+}
+
+pre{
+font-family:"Schoolbell", cursive;
+
+
 
 }
