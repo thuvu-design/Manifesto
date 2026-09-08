@@ -24,3 +24,16 @@ font-family:"Schoolbell", cursive;
 font-size: 2.25em;
 color: rgb(238, 95, 195);
 }
+
+div {
+font-family:"Schoolbell", cursive;
+font-size: 2.67em;
+color: rgb(209, 68, 136);
+font-weight: bold;
+font-style: italic;
+}
+
+img {
+width: 100%;
+height: auto;
+}
