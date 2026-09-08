@@ -25,14 +25,14 @@ font-size: 2.25em;
 color: rgb(238, 95, 195);
 }
 
-span {
+span{
 font-family:"Schoolbell", cursive;
 font-size: 1.58em;
 color: rgb(209, 68, 136);
 font-weight: bold;
 font-style: italic;
 }
-.highlight {
+.highlight{
 	font-weight: bold;
 	font-size: 1em;
 }
