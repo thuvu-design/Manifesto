@@ -25,14 +25,17 @@ font-size: 2.25em;
 color: rgb(238, 95, 195);
 }
 
-div {
+span {
 font-family:"Schoolbell", cursive;
 font-size: 1.58em;
 color: rgb(209, 68, 136);
 font-weight: bold;
 font-style: italic;
 }
-.highlight {font-weight: bold;}
+.highlight {
+	font-weight: bold;
+	font-size: 1em;
+}
 
 img {
 width: 80%;
