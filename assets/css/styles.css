@@ -2,8 +2,20 @@
 
 body {
 background-color: lavenderblush;
-color: rgb(212, 168, 234);
+color: rgb(174, 133, 195);
+padding: 32px;
+}
 
+h1 {
+font-family:"Short Stack", cursive;
+font-size: 4em;
+line-height: 1.2;
+margin-bottom: 52px;
+}
 
+p{
+font-family:"Schoolbell", cursive;
+font-size: 1.85em;
+max-width: 777px;
 
 }
