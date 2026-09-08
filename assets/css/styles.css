@@ -3,7 +3,7 @@
 body {
 background-color: lavenderblush;
 color: rgb(174, 133, 195);
-padding: 32px;
+padding: 23px;
 }
 
 h1 {
@@ -15,13 +15,12 @@ margin-bottom: 52px;
 
 p{
 font-family:"Short Stack", cursive;
-font-size: 1.85em;
-max-width: 777px;
+font-size: 1em;
+max-width: 1000px;
 }
 
 pre{
 font-family:"Schoolbell", cursive;
-
-
-
+font-size: 2.25em;
+color: rgb(238, 95, 195);
 }
