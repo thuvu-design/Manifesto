@@ -32,6 +32,7 @@ color: rgb(209, 68, 136);
 font-weight: bold;
 font-style: italic;
 }
+.highlight {font-weight: bold;}
 
 img {
 width: 80%;
